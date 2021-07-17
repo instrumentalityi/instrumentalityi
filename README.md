@@ -6,8 +6,10 @@ I also enjoy System Administration, and looking to improve! I can currently setu
 
 - 🔭 I’m currently working on Minecraft Servers! [Osiris]
 - 🌱 I’m currently learning Python!
-- 📫 How to reach me: DylanDeNewb#0731 
-
+###
+###
+###
+![](https://discord-md-badge.vercel.app/api/shield/410183483990999073)
 #
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DylanDeNewb&show_icons=true)
