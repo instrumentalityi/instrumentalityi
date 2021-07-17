@@ -1,4 +1,4 @@
-## Hi there 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+## Hi there 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${DylanDeNewb}.${387026107})
 ### My name is Dylan!
 
 I am a Java Developer, which likes to focus on minecraft related things!
