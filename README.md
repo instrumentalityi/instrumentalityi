@@ -9,8 +9,6 @@ I also enjoy System Administration, and looking to improve! I can currently setu
 ###
 ###
 ###
-![](https://discord-md-badge.vercel.app/api/shield/410183483990999073)
-#
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DylanDeNewb&count_private=true&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
