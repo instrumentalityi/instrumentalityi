@@ -4,8 +4,8 @@
 I am a Java Developer, which likes to focus on minecraft related things!
 I also enjoy System Administration, and looking to improve! I can currently setup and manage a linux environment
 
-- 🔭 I’m currently working on Minecraft Servers! [RoleplayHub, BumbleCraft]
-- 🌱 I’m currently learning Python!
+- 🔭 I’m currently working on Minecraft Servers! [RoleplayHub]
+- 🌱 I’m currently learning Python & Javascript!
 ###
 ###
 ###
