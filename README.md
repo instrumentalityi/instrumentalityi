@@ -1,16 +1,15 @@
-## Hi there 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${DylanDeNewb}.${387026107})
+## Hi there 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${instrumentalityi}.${387026107})
 ### My name is Dylan!
 
 I am a Java Developer, which likes to focus on minecraft related things!
 I also enjoy System Administration, and looking to improve! I can currently setup and manage a linux environment
 
 - 🔭 I’m currently working on Minecraft Servers! [RoleplayHub]
-- 🌱 I’m currently learning Python & Javascript!
 ###
 ###
 ###
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DylanDeNewb&count_private=true&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=instrumentalityi&count_private=true&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **DylanDeNewb/DylanDeNewb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
