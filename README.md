@@ -2,9 +2,9 @@
 ### My name is Dylan!
 
 I am a Java Developer, which likes to focus on minecraft related things!
-I also enjoy System Administration, and looking to improve! I can currently setup and manage a linux environment
+Looking to expand into further areas of the industry, including minecraft bedrock. 
 
-- 🔭 I’m currently working on Minecraft Servers! [[RoleplayHub](https://roleplayhub.com)]
+- 🔭 I’m currently working on Minecraft Servers! [[TallTalesRP](https://talltalesrp.net), [RoleplayHub](https://roleplayhub.com)]
 ###
 ###
 ###
